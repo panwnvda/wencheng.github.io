@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Resume</title>
+    <title>Wencheng Xue - Resume</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -51,8 +51,8 @@
 
 <body>
     <header>
-        <h1>Your Name</h1>
-        <p>Web Developer</p>
+        <h1>Wencheng Xue</h1>
+        <p>Aspiring Computer Scientist</p>
     </header>
 
     <nav>
@@ -64,21 +64,19 @@
     <section id="about">
         <h2>About Me</h2>
         <p>
-            Welcome to my personal website! I am a passionate web developer with expertise in front-end and
-            back-end technologies. I love creating responsive and user-friendly websites that deliver a great
-            user experience.
+           Hello, My name is Wencheng Xue. I'm an aspiring Computer Scientist with a focus in Cybersecurity. My skills in Linux, and scripting with the BASH, have enabled me to attack multiple websites on Bugcrowd. I have successfully breached Telsa's website before. My hobbies include playing piano, singing, and practicing martial arts. My goal with Cybersecurity is to protect the world from cyber threats. In a world, where computer viruses and malware are becoming more pertinent, I believe that information security is needed to keep store our data safely.
         </p>
     </section>
 
     <section id="skills">
         <h2>Skills</h2>
         <ul>
-            <li>HTML5</li>
-            <li>CSS3</li>
+            <li>Linux</li>
+            <li>HTML</li>
             <li>JavaScript</li>
-            <li>React</li>
-            <li>Node.js</li>
-            <!-- Add more skills as needed -->
+            <li>BASH</li>
+            
+           
         </ul>
     </section>
 
@@ -87,14 +85,14 @@
         <p>
             Feel free to reach out to me. You can contact me at:
             <br>
-            Email: your.email@example.com
+            Email: xuewencheng156@gmail.com
             <br>
-            LinkedIn: <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">Your LinkedIn Profile</a>
+           
         </p>
     </section>
 
     <footer>
-        <p>&copy; 2024 Your Name. All rights reserved.</p>
+        <p>&copy; 2024 Wencheng Xue. All rights reserved.</p>
     </footer>
 </body>
 
